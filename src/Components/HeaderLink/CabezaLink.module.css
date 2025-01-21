@@ -1,0 +1,17 @@
+.link{
+    .contenedor {
+        display: flex;              
+        justify-content: end;       
+        align-items: flex-end; 
+        gap: 10px;     
+        height: 200px;              
+        border: 1px; 
+    }
+    
+    .button {
+        color: rgb(24, 6, 182);
+        border: none;
+                   
+    }
+    
+}

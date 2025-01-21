@@ -1,0 +1,19 @@
+.pie{
+    width: 29%;
+    height: 276px
+}
+
+.imgpie{
+    margin: 10px;
+    height: 100%;
+    width: 339.5%;
+}
+
+
+.texto{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;  
+}

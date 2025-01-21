@@ -1,0 +1,27 @@
+.Cabeza{
+    display: flex;
+    justify-content: space-between;
+    align-items: self-end;
+    padding: 1em 1em;
+    margin:10px;
+    background-color: #0a0a0a
+}
+
+.buttonLink{
+    border:#0a0a0a
+    
+}
+
+
+a{text-decoration: none;}
+
+.logoContainer{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.Cabeza img {
+
+    height: 3em
+}
+
